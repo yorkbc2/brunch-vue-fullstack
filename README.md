@@ -10,6 +10,14 @@ git clone https://github.com/theocodes/vue-brunch.git my-brunch-project
 
 ```
 
+#### OR
+
+```sh
+
+brunch new my-project -s yorkbc2/brunch-vue-fullstack
+
+```
+
 The plugins in this skeleton are the latest version. The skeleton is using vue tools:
 
 * Vue [2.4.4]
