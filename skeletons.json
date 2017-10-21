@@ -1,0 +1,7 @@
+{
+	"title": "Brunch Vue FullStack",
+	"url": "yorkbc2/brunch-vue-fullstack",
+	"alias": "vbs",
+	"technologies": "Babel, Vue, VueRouter, VueResource, VueX, VueSCSS",
+	"description": "Easy to use vue app structure with all need to work modules."
+}
